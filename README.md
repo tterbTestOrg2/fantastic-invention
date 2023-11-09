@@ -61,7 +61,3 @@ Customize Fantastic Invention to suit your Rust workflow. Check out the [Configu
 ## Contributing
 
 We encourage contributions from Rustaceans and tech enthusiasts. Check out our [Contribution Guidelines](CONTRIBUTING.md) for more details on how you can get involved.
-
-## License
-
-Fantastic Invention is licensed under the [MIT License](LICENSE). Feel free to use it, modify it, and contribute to the future of technology with Rust!
